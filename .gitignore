@@ -1,0 +1,23 @@
+**/ig/**
+*.pdf
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
