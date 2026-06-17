@@ -72,7 +72,13 @@
 ├─ 4.6/
 │  ├─ 实验七.ipynb
 │  └─ 实验八.ipynb
-├─ readme.md
+├─ mdsource/       # 仅存放README展示用的示例图片，非实验核心文件
+│  ├─ examplefig1.png
+│  ├─ examplefig2.png
+│  └─ examplefig3.png
+├─ .gitattributes
+├─ .gitignore
+├─ README.md
 └─ requirements.txt
 ```
 
