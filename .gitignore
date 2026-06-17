@@ -2,6 +2,10 @@
 *.pdf
 *.zip
 
+# README preview assets
+!mdsource/
+!mdsource/*.png
+
 # Jupyter
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
